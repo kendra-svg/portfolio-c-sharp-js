@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Portfolio", "API-Portfolio.csproj", "{91F935B9-4E41-4D04-B82D-EDB197D010AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API-Portfolio", "API-Portfolio.csproj", "{91F935B9-4E41-4D04-B82D-EDB197D010AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB-UI-Portfolio", "..\WEB-UI-Portfolio\WEB-UI-Portfolio.csproj", "{AC56945C-EA55-42F6-BE4E-0E496ABA7BB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEB-UI-Portfolio", "..\WEB-UI-Portfolio\WEB-UI-Portfolio.csproj", "{AC56945C-EA55-42F6-BE4E-0E496ABA7BB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

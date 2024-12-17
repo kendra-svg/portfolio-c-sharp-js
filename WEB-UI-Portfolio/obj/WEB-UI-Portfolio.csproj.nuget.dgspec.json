@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kendra\\Desktop\\Port\\WEB-UI-Portfolio\\WEB-UI-Portfolio.csproj": {}
+    "C:\\Users\\Kendra\\Desktop\\Port\\PortafolioMaster\\WEB-UI-Portfolio\\WEB-UI-Portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kendra\\Desktop\\Port\\WEB-UI-Portfolio\\WEB-UI-Portfolio.csproj": {
+    "C:\\Users\\Kendra\\Desktop\\Port\\PortafolioMaster\\WEB-UI-Portfolio\\WEB-UI-Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kendra\\Desktop\\Port\\WEB-UI-Portfolio\\WEB-UI-Portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\Kendra\\Desktop\\Port\\PortafolioMaster\\WEB-UI-Portfolio\\WEB-UI-Portfolio.csproj",
         "projectName": "WEB-UI-Portfolio",
-        "projectPath": "C:\\Users\\Kendra\\Desktop\\Port\\WEB-UI-Portfolio\\WEB-UI-Portfolio.csproj",
+        "projectPath": "C:\\Users\\Kendra\\Desktop\\Port\\PortafolioMaster\\WEB-UI-Portfolio\\WEB-UI-Portfolio.csproj",
         "packagesPath": "C:\\Users\\Kendra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kendra\\Desktop\\Port\\WEB-UI-Portfolio\\obj\\",
+        "outputPath": "C:\\Users\\Kendra\\Desktop\\Port\\PortafolioMaster\\WEB-UI-Portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kendra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
