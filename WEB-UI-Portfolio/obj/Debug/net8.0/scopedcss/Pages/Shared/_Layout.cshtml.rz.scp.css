@@ -46,3 +46,8 @@ button.accept-policy[b-bxi3cty9wk] {
   white-space: nowrap;
   line-height: 60px;
 }
+
+.background-purple[b-bxi3cty9wk] {
+    --bs-bg-opacity: 1;
+    background-color: rgb(165, 137, 255) !important;
+}
