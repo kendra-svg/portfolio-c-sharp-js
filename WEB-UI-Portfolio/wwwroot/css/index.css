@@ -1,4 +1,57 @@
-﻿.background-purple {
+﻿body {
+    font-family: "Readex Pro", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.background-purple {
     --bs-bg-opacity: 1;
     background-color: rgb(165, 137, 255) !important;
+}
+
+
+
+.readex-pro-title {
+    font-family: "Readex Pro", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "HEXP" ;
+    font-size: 40px;
+}
+
+.readex-pro-body {
+    font-family: "Readex Pro", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "HEXP";
+}
+
+.readex-pro-education {
+    font-family: "Readex Pro", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings: "HEXP";
+    font-size: 25px;
+
+}
+
+.about-text {
+    margin-left: 30px;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+
+
+
+li::marker {
+    color: mediumpurple;
+}
+
+.li-mb {
+    line-height: 0;
 }
