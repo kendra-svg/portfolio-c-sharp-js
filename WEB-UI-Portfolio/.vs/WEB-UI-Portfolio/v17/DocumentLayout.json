@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kendra\\Desktop\\Port\\PortafolioMaster\\WEB-UI-Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F31E2EFC-E6B7-4AFF-8700-67E05F205E6A}|WEB-UI-Portfolio.csproj|c:\\users\\kendra\\desktop\\port\\portafoliomaster\\web-ui-portfolio\\web-ui-portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F31E2EFC-E6B7-4AFF-8700-67E05F205E6A}|WEB-UI-Portfolio.csproj|solutionrelative:web-ui-portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WEB-UI-Portfolio",
+              "DocumentMoniker": "C:\\Users\\Kendra\\Desktop\\Port\\PortafolioMaster\\WEB-UI-Portfolio\\WEB-UI-Portfolio.csproj",
+              "RelativeDocumentMoniker": "WEB-UI-Portfolio.csproj",
+              "ToolTip": "C:\\Users\\Kendra\\Desktop\\Port\\PortafolioMaster\\WEB-UI-Portfolio\\WEB-UI-Portfolio.csproj",
+              "RelativeToolTip": "WEB-UI-Portfolio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T20:00:03.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 806,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

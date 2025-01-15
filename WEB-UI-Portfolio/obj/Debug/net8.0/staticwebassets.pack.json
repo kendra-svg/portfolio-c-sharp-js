@@ -2,7 +2,11 @@
   "Files": [
     {
       "Id": "C:\\Users\\Kendra\\Desktop\\Port\\PortafolioMaster\\WEB-UI-Portfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WEB-UI-Portfolio.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WEB-UI-Portfolio.bundle.scp.css"
+      "PackagePath": "staticwebassets\\WEB-UI-Portfolio.bd000m94fg.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Kendra\\Desktop\\Port\\PortafolioMaster\\WEB-UI-Portfolio\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
     },
     {
       "Id": "C:\\Users\\Kendra\\Desktop\\Port\\PortafolioMaster\\WEB-UI-Portfolio\\wwwroot\\css\\site.css",
@@ -243,6 +247,10 @@
     {
       "Id": "C:\\Users\\Kendra\\Desktop\\Port\\PortafolioMaster\\WEB-UI-Portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WEB-UI-Portfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WEB-UI-Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
