@@ -52,6 +52,36 @@ li::marker {
     color: mediumpurple;
 }
 
+li {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+
 .li-mb {
-    line-height: 0;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.about-text-exp {
+    color: gray;
+}
+
+.resize-item {
+    flex: 1 1 200px;
+}
+
+.container-resize {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul {
+    list-style: disc;
+    width: 100%;
+}
+ul ul {
+    list-style-type: circle; 
+    padding-left: 20px; 
+
 }
