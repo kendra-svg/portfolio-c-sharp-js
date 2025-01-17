@@ -1,0 +1,87 @@
+﻿body {
+    font-family: "Readex Pro", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.background-purple {
+    --bs-bg-opacity: 1;
+    background-color: rgb(165, 137, 255) !important;
+}
+
+
+
+.readex-pro-title {
+    font-family: "Readex Pro", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "HEXP" ;
+    font-size: 40px;
+}
+
+.readex-pro-body {
+    font-family: "Readex Pro", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "HEXP";
+}
+
+.readex-pro-education {
+    font-family: "Readex Pro", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings: "HEXP";
+    font-size: 25px;
+
+}
+
+.about-text {
+    margin-left: 30px;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+
+
+
+li::marker {
+    color: mediumpurple;
+}
+
+li {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+
+.li-mb {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.about-text-exp {
+    color: gray;
+}
+
+.resize-item {
+    flex: 1 1 200px;
+}
+
+.container-resize {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul {
+    list-style: disc;
+    width: 100%;
+}
+ul ul {
+    list-style-type: circle; 
+    padding-left: 20px; 
+
+}

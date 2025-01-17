@@ -20,3 +20,8 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+background-purple {
+    --bs-bg-opacity: 1;
+    background-color: rgb(165, 137, 255) !important;
+}
